@@ -1,0 +1,8 @@
+TUTORIAL DE CONSTRUCT:
+https://www.construct.net/en/tutorials/guia-iniciantes-construct-1609
+
+DOCUMENTAÇÃO DE PYGAME:
+https://www.pygame.org/wiki/tutorials
+
+EXEMPLO DE JOGO EM PYGAME:
+https://www.pygame.org/project/4288/6476
